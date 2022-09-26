@@ -24,10 +24,11 @@ Zhibin (Charly) Hong is currently the head of computer vision technology in <a h
 <div class='paper-box'><div class='paper-box-image'><img src='images/styleswap.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="7">
 
-StyleSwap: Style-Based Generator Empowers Robust Face Swapping &nbsp;&nbsp; [<a href="zb-hong.github.io">PDF</a>]&nbsp;&nbsp;
-  [<a href="zb-hong.github.io">Code</a>] <br> 
+StyleSwap: Style-Based Generator Empowers Robust Face Swapping  <br> 
 Zhiliang Xu, Hang Zhou, <b>Zhibin Hong</b>, Ziwei Liu, Jiaming Liu, Zhizhi Guo, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
 <i> European Conference on Computer Vision (ECCV) 2022.</i><br>
+[<a href="zb-hong.github.io">PDF</a>]&nbsp;
+[<a href="zb-hong.github.io">Code</a>]  <br>
 </div></div>
  
 <div class='paper-box'><div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
@@ -35,7 +36,9 @@ Zhiliang Xu, Hang Zhou, <b>Zhibin Hong</b>, Ziwei Liu, Jiaming Liu, Zhizhi Guo, 
 Few-Shot Head Swapping in the Wild<br>
 Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, <b>Zhibin Hong</b>, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022 <b>(Oral Presentation)</b>.</i><br>
-</div></div>
+[<a href="zb-hong.github.io">PDF</a>]&nbsp;
+[<a href="zb-hong.github.io">Code</a>]  <br>
+  </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/fsfont.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="5">
@@ -43,7 +46,8 @@ Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, <b>Zhibin Hong</b>, Changxing D
 Few-Shot Font Generation by Learning Fine-Grained Local Styles<br>
 Licheng Tang, Yiyang Cai, Jiaming Liu, <b>Zhibin Hong</b>, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang <br>
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
-
+[<a href="zb-hong.github.io">PDF</a>]&nbsp;
+[<a href="zb-hong.github.io">Code</a>]  <br>
 </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/GC-AVT.png' alt="sym" width="100%"></div>
@@ -52,7 +56,9 @@ Licheng Tang, Yiyang Cai, Jiaming Liu, <b>Zhibin Hong</b>, Mingming Gong, Minhu 
 Expressive Talking Head Generation with Granular Audio-Visual Control<br>
 Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
-</div></div>
+[<a href="zb-hong.github.io">PDF</a>]&nbsp;
+[<a href="zb-hong.github.io">Code</a>]  <br>
+  </div></div>
  
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/mobilefaceswap.png' alt="sym" width="100%"></div>
@@ -61,21 +67,27 @@ Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han,
 Mobilefaceswap: A lightweight framework for video face swapping<br>
 Zhiliang Xu, <b>Zhibin Hong</b>, Changxing Ding, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding<br>
 <i> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI) 2022.</i><br>
-</div></div>
+[<a href="zb-hong.github.io">PDF</a>]&nbsp;
+[<a href="zb-hong.github.io">Code</a>]  <br>
+  </div></div>
   
 <div class='paper-box'><div class='paper-box-image'><img src='images/faceController.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="2">  
 Facecontroller: Controllable attribute editing for face in the wild<br>
 Zhiliang Xu, Xiyu Yu, <b>Zhibin Hong</b>, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai<br>
 <i> Thirty-fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.</i><br>
-</div></div>
+[<a href="zb-hong.github.io">PDF</a>]&nbsp;
+[<a href="zb-hong.github.io">Code</a>]  <br>
+  </div></div>
  
 <div class='paper-box'><div class='paper-box-image'><img src='images/ACF.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 ACFNet: Attentional Class Feature Network for Semantic Segmentation<br>
  Fan Zhang, Yanqin Chen, Zhihang Li, <b>Zhibin Hong</b>, Jingtuo Liu, Feifei Ma, Junyu Han, Errui Ding <br>
 <i>  IEEE International Conference on Computer Vision (ICCV) 2019.</i><br>
-</div></div>
+[<a href="zb-hong.github.io">PDF</a>]&nbsp;
+[<a href="zb-hong.github.io">Code</a>]  <br>
+  </div></div>
  
   
 # 📖 Educations
