@@ -24,7 +24,8 @@ Zhibin (Charly) Hong is currently the head of computer vision technology in <a h
 <div class='paper-box'><div class='paper-box-image'><img src='images/styleswap.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="7">
 
-StyleSwap: Style-Based Generator Empowers Robust Face Swapping<br>
+StyleSwap: Style-Based Generator Empowers Robust Face Swapping <a href="zb-hong.github.io">PDF</a>&nbsp;&nbsp;
+  <a href="zb-hong.github.io">Code</a> <br> 
 Zhiliang Xu, Hang Zhou, <b>Zhibin Hong</b>, Ziwei Liu, Jiaming Liu, Zhizhi Guo, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
 <i> European Conference on Computer Vision (ECCV) 2022.</i><br>
 </div></div>
