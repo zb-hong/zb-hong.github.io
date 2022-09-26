@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "zb-h"
-description              : "This is the experimental homepage of zb-h."
+title                    : "Zhibin Hong's Homepage"
+description              : 
 repository               : "zb-hong/zb-hong.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -21,13 +21,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "zb hong"
+  name             : "Zhibin Hong"
   avatar           :  
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Head of computer vision technology in Surreal AI"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    :  
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=9IIxWBsAAAAJ"
   email            :  
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
