@@ -11,6 +11,7 @@ redirect_from:
 
 Zhibin (Charly) Hong is currently the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/'>VIS</a>  at Baidu and the technical leader of the VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
 
+<span class='anchor' id='-news'></span>
 # 🔥 News
 - *2022.09*: &nbsp;🎉🎉 One paper has been accepted to NeuIPS 2022. 
 - *2022.08*: &nbsp;🎉🎉 One paper has been accepted to SIGGRAPH Asia 2022. 
@@ -19,6 +20,7 @@ Zhibin (Charly) Hong is currently the head of computer vision technology in <a h
 - *2022.03*: &nbsp;🎉🎉 Three papers (1 oral) have been accepted to CVPR 2022.
 - *2021.11*: &nbsp;🎉🎉 One paper has been accepted to AAAI 2022.
 
+<span class='anchor' id='-publications'></span>
 # 📝 Recent Publications 
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/styleswap.png' alt="sym" width="100%"></div>
@@ -89,7 +91,7 @@ ACFNet: Attentional Class Feature Network for Semantic Segmentation<br>
 [<a href="zb-hong.github.io">Code</a>]  <br>
   </div></div>
  
-  
+<span class='anchor' id='-educations'></span>  
 # 📖 Educations
 - *2011.07 - 2015.06*, Ph.D. of Software Engineering, University of Technology, Sydney, Australia. 
 - *2010.06 - 2011.06*, Master of Information Technology, South China University of Technology, China.  
