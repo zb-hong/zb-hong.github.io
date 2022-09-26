@@ -21,7 +21,6 @@ Zhibin (Charly) Hong is the head of computer vision technology in <a href='https
 
 # 📝 Recent Publications 
 
-<div class='paper-box'>
 <div class='paper-box'><div class='paper-box-image'><img src='images/styleswap.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="7">
 
@@ -30,7 +29,7 @@ Zhiliang Xu, Hang Zhou, <b>Zhibin Hong</b>, Ziwei Liu, Jiaming Liu, Zhizhi Guo, 
 <i> European Conference on Computer Vision (ECCV) 2022.</i><br>
 </div>
  
-<div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="6">
 Few-Shot Head Swapping in the Wild<br>
 Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, <b>Zhibin Hong</b>, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
