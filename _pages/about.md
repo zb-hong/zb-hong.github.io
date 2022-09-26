@@ -8,36 +8,78 @@ redirect_from:
   - /about.html
 ---
 
-My research interest includes neural machine translation and computer vision.  
 
+Zhibin (Charly) Hong is the head of computer vision technology in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/'>VIS</a>  at Baidu and the technical leader of the VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09*: &nbsp;🎉🎉 One paper has been accepted to NeuIPS 2022. 
+- *2022.08*: &nbsp;🎉🎉 One paper has been accepted to SIGGRAPH Asia 2022. 
+- *2022.07*: &nbsp;🎉🎉 One paper has been accepted to ECCV 2022. 
+- *2022.06*: &nbsp;🎉🎉 I joined Surreal AI as the head of computer vision technology
+- *2022.03*: &nbsp;🎉🎉 Three papers (1 oral) have been accepted to CVPR 2022.
+- *2021.11*: &nbsp;🎉🎉 One paper has been accepted to AAAI 2022.
 
-# 📝 Publications 
+# 📝 Recent Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+<div class='paper-box'><div class='paper-box-image'><img src='images/styleswap.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="4">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+StyleSwap: Style-Based Generator Empowers Robust Face Swapping<br>
+Zhiliang Xu, Hang Zhou, <b>Zhibin Hong</b>, Ziwei Liu, Jiaming Liu, Zhizhi Guo, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
+<i> European Conference on Computer Vision (ECCV) 2022.</i><br>
 </div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
  
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+Few-Shot Head Swapping in the Wild<br>
+Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, <b>Zhibin Hong</b>, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022 <b>(Oral Presentation)</b>.</i><br>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/fsfont.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="2">
+
+Few-Shot Font Generation by Learning Fine-Grained Local Styles<br>
+Licheng Tang, Yiyang Cai, Jiaming Liu, <b>Zhibin Hong</b>, Mingming Gong, Minhu Fan, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang <br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
+
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/GC-AVT.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="3">
+
+Expressive Talking Head Generation with Granular Audio-Visual Control<br>
+Borong Liang, Yan Pan, Zhizhi Guo, Hang Zhou, <b>Zhibin Hong</b>, Xiaoguang Han, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
+<i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022.</i><br>
+</div>
+ 
+
+ <div class='paper-box'><div class='paper-box-image'><img src='images/mobilefaceswap.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="4">
+
+Mobilefaceswap: A lightweight framework for video face swapping<br>
+Zhiliang Xu, <b>Zhibin Hong</b>, Changxing Ding, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding<br>
+<i> Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI) 2022.</i><br>
+</div> 	
+  
+<div class='paper-box'><div class='paper-box-image'><img src='images/faceController.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="6">  
+Facecontroller: Controllable attribute editing for face in the wild<br>
+Zhiliang Xu, Xiyu Yu, <b>Zhibin Hong</b>, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai<br>
+<i> Thirty-fifth AAAI Conference on Artificial Intelligence (AAAI) 2021.</i><br>
+ </div>
+ 
+<div class='paper-box'><div class='paper-box-image'><img src='images/ACF.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="7">
+ACFNet: Attentional Class Feature Network for Semantic Segmentation<br>
+ Fan Zhang, Yanqin Chen, Zhihang Li, <b>Zhibin Hong</b>, Jingtuo Liu, Feifei Ma, Junyu Han, Errui Ding <br>
+<i>  IEEE International Conference on Computer Vision (ICCV) 2019.</i><br>
+</div> 
+ 
+</div>
+  
+# 📖 Educations
+- *2011.07 - 2015.06*, Ph.D. of Software Engineering, University of Technology, Sydney, Australia. 
+- *2010.06 - 2011.06*, Master of Information Technology, South China University of Technology, China.  
+- *2006.09 - 2010.06*, Bachelor of Information Technology, South China University of Technology, China.  
