@@ -1,3 +1,12 @@
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 My research interest includes neural machine translation and computer vision.  
 
