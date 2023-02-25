@@ -9,7 +9,7 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-Zhibin (Charly) Hong is currently the Head of CV/AI in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/'>VIS</a>  at Baidu and the technical leader of the VAE group. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
+Zhibin (Charly) Hong is currently the Head of CV/AI in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/'>VIS</a>  at Baidu and the technical leader of the VAE team. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
