@@ -29,8 +29,8 @@ Zhibin (Charly) Hong is currently the Head of CV/AI in <a href='https://surreal.
 StyleSwap: Style-Based Generator Empowers Robust Face Swapping  <br> 
 Zhiliang Xu, Hang Zhou, <b>Zhibin Hong</b>, Ziwei Liu, Jiaming Liu, Zhizhi Guo, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
 <i> European Conference on Computer Vision (ECCV) 2022.</i><br>
-[<a href="zb-hong.github.io">PDF</a>]&nbsp;
-[<a href="zb-hong.github.io">Code</a>]  <br>
+[<a href="[zb-hong.github.io](https://arxiv.org/pdf/2209.13514.pdf)">PDF</a>]&nbsp;
+[<a href="[zb-hong.github.io](https://github.com/Seanseattle/StyleSwap)">Code</a>]  <br>
 </div></div>
  
 <div class='paper-box'><div class='paper-box-image'><img src='images/heser.jpeg' alt="sym" width="100%"></div>
@@ -38,8 +38,8 @@ Zhiliang Xu, Hang Zhou, <b>Zhibin Hong</b>, Ziwei Liu, Jiaming Liu, Zhizhi Guo, 
 Few-Shot Head Swapping in the Wild<br>
 Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, <b>Zhibin Hong</b>, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang<br>
 <i> IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022 <b>(Oral Presentation)</b>.</i><br>
-[<a href="zb-hong.github.io">PDF</a>]&nbsp;
-[<a href="zb-hong.github.io">Code</a>]  <br>
+[<a href="[zb-hong.github.io](https://arxiv.org/pdf/2204.13100.pdf)">PDF</a>]&nbsp;
+[<a href="[zb-hong.github.io](https://github.com/jmliu88/HeSer)">Code</a>]  <br>
   </div></div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/fsfont.png' alt="sym" width="100%"></div>
