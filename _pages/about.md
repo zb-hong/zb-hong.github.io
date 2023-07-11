@@ -13,6 +13,7 @@ Zhibin (Charly) Hong is currently the Head of CV/AI in <a href='https://surreal.
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
+- *2022.12*: &nbsp;🎉🎉 One paper has been accepted to AAAI 2023. 
 - *2022.09*: &nbsp;🎉🎉 One paper has been accepted to NeuIPS 2022. 
 - *2022.08*: &nbsp;🎉🎉 One paper has been accepted to SIGGRAPH Asia 2022. 
 - *2022.07*: &nbsp;🎉🎉 One paper has been accepted to ECCV 2022. 
