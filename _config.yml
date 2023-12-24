@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhibin Hong"
   avatar           :  "images/IMG_3851.jpg" 
-  bio              : "Head of CV/AI in Surreal AI"
+  bio              : "Head of CV/AI in HeyGen"
   location         : "Los Angeles, California, United States"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=9IIxWBsAAAAJ"
-  email            :  "charly@surreal.la"
+  email            :  "charly@heygen.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
