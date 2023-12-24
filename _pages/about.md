@@ -9,7 +9,7 @@ redirect_from:
 ---
 <span class='anchor' id='about-me'></span>
 
-Zhibin (Charly) Hong is currently the Head of CV/AI in <a href='https://surreal.la/'>Surreal AI</a>. Before joining Surreal, he was a staff engineer of  <a href='https://vis.baidu.com/'>VIS</a>  at Baidu and the technical leader of the VAE team. He received the Ph.D. degree in Faculty of Engineering and Information Technology, University of Technology at Sydney, Sydney, NSW, Australia, in 2015. His research interests include visual tracking, human perception, face analysis, and image & video synthesis. 
+Charly Hong presently leads the Computer Vision and Artificial Intelligence division at HeyGen. In 2015, he earned his Ph.D. from the Faculty of Engineering and Information Technology at the University of Technology, Sydney, located in New South Wales, Australia. Charly's research is primarily focused on visual tracking, human perception, facial analysis, and the synthesis of images and videos.
 
 <span class='anchor' id='-news'></span>
 # 🔥 News
@@ -17,7 +17,7 @@ Zhibin (Charly) Hong is currently the Head of CV/AI in <a href='https://surreal.
 - *2022.09*: &nbsp;🎉🎉 One paper has been accepted to NeuIPS 2022. 
 - *2022.08*: &nbsp;🎉🎉 One paper has been accepted to SIGGRAPH Asia 2022. 
 - *2022.07*: &nbsp;🎉🎉 One paper has been accepted to ECCV 2022. 
-- *2022.06*: &nbsp;🎉🎉 I joined Surreal AI as the head of computer vision technology
+- *2022.06*: &nbsp;🎉🎉 I joined HeyGen as the head of computer vision technology
 - *2022.03*: &nbsp;🎉🎉 Three papers (1 oral) have been accepted to CVPR 2022.
 - *2021.11*: &nbsp;🎉🎉 One paper has been accepted to AAAI 2022.
 
